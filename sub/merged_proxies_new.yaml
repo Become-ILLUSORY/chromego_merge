@@ -1420,7 +1420,7 @@ proxies:
     path: github.com/Alvin9999
     headers:
       Host: ip14.6016725.xyz
-- name: None_vmess_094
+- name: United States_vmess_094
   type: vmess
   server: icook.tw
   port: 2095
@@ -1480,7 +1480,7 @@ proxies:
     path: github.com/Alvin9999
     headers:
       Host: ip14.6016725.xyz
-- name: United States_vmess_098
+- name: None_vmess_098
   type: vmess
   server: russia.com
   port: 2095
@@ -3402,8 +3402,8 @@ proxies:
 - name: Russia_hy_0
   type: hysteria
   server: 46.17.43.223
-  port: 12311
-  ports: 12311
+  port: 23142
+  ports: 23142
   auth_str: dongtaiwang.com
   up: 80
   down: 100
@@ -3416,8 +3416,8 @@ proxies:
 - name: Russia_hy_1
   type: hysteria
   server: 46.17.43.223
-  port: 12311
-  ports: 12311
+  port: 23142
+  ports: 23142
   auth_str: dongtaiwang.com
   up: 80
   down: 100
@@ -3430,8 +3430,8 @@ proxies:
 - name: Russia_hy_2
   type: hysteria
   server: 46.17.43.223
-  port: 12311
-  ports: 12311
+  port: 23142
+  ports: 23142
   auth_str: dongtaiwang.com
   up: 80
   down: 100
@@ -3444,8 +3444,8 @@ proxies:
 - name: Russia_hy_3
   type: hysteria
   server: 46.17.43.223
-  port: 12311
-  ports: 12311
+  port: 23142
+  ports: 23142
   auth_str: dongtaiwang.com
   up: 80
   down: 100
@@ -3586,11 +3586,11 @@ proxy-groups:
   - United States_vmess_091
   - None_vmess_092
   - Canada_vmess_093
-  - None_vmess_094
+  - United States_vmess_094
   - United States_vmess_095
   - None_vmess_096
   - None_vmess_097
-  - United States_vmess_098
+  - None_vmess_098
   - None_vmess_099
   - None_vmess_0100
   - None_vmess_0101
@@ -3822,11 +3822,11 @@ proxy-groups:
   - United States_vmess_091
   - None_vmess_092
   - Canada_vmess_093
-  - None_vmess_094
+  - United States_vmess_094
   - United States_vmess_095
   - None_vmess_096
   - None_vmess_097
-  - United States_vmess_098
+  - None_vmess_098
   - None_vmess_099
   - None_vmess_0100
   - None_vmess_0101
